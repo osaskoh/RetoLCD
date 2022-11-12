@@ -1,0 +1,15 @@
+C:\code\RetoLCD\RetoLCD\bin\Debug\net6.0\RetoLCD.exe
+C:\code\RetoLCD\RetoLCD\bin\Debug\net6.0\RetoLCD.deps.json
+C:\code\RetoLCD\RetoLCD\bin\Debug\net6.0\RetoLCD.runtimeconfig.json
+C:\code\RetoLCD\RetoLCD\bin\Debug\net6.0\RetoLCD.dll
+C:\code\RetoLCD\RetoLCD\bin\Debug\net6.0\RetoLCD.pdb
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.csproj.AssemblyReference.cache
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.AssemblyInfoInputs.cache
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.AssemblyInfo.cs
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.csproj.CoreCompileInputs.cache
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.dll
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\refint\RetoLCD.dll
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.pdb
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\RetoLCD.genruntimeconfig.cache
+C:\code\RetoLCD\RetoLCD\obj\Debug\net6.0\ref\RetoLCD.dll
